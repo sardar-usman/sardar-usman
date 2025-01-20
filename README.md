@@ -6,7 +6,7 @@ I am passionate about improving software quality through end-to-end automation, 
 
 ## 🚀 About Me:
 
-## 🔍 Expert Areas:
+### 🔍 Expert Areas:
 
 **Automation Testing Frameworks:** Skilled in tools like Selenium WebDriver, Cypress, Playwright, TestCafe, Rspec, Capybara, Codeception, Behave, Cucumber, Robot Framework, Appium Inspector, XCUITest, UI Automator, Appium Driver, Mocha, Jasmine, Jest.
 **API Testing:** Proficient in Postman, REST APIs, Rest Assured, PactumJs and Python Requests Library.
@@ -16,22 +16,22 @@ I am passionate about improving software quality through end-to-end automation, 
 **Version Control:** Git, GitHub, GitLab, Bitbucket.
 **QA Management:** Expertise in Zephyr Enterprise, Zephyr inside Jira, Test Rails, Cucumber Studio and QA Symphony. 
 
-## 💻 Programming Proficiency:
+### 💻 Programming Proficiency:
 
 **Languages:** Python, JavaScript, Java, Ruby on Rails, PHP and Dart.
 
-## ☁️ Cloud & CI/CD Expertise:
+### ☁️ Cloud & CI/CD Expertise:
 
 **AWS Services:** Hands-on experience with CodePipeline, Code Commit, Code Build, Lambda, Cloud Watch, EC2, CloudFormation, IAM, and more.
 **CI/CD Tools:** Jenkins, CircleCI, GitHub Actions, Mircosoft Azure and GitLab for robust software delivery pipelines.
 
-## 🌱 Currently Learning:
+### 🌱 Currently Learning:
 
 **Advanced JavaScript:** Strengthening backend development knowledge with Node.js.
 **Security Testing:** Gaining expertise in ethical hacking and tools like OWASP ZAP.
 **Cloud Automation:** Expanding knowledge of cloud-based SQA strategies.
 
-## 💼 Services I Offer:
+### 💼 Services I Offer:
 
 **QA Strategy Development:** Designing efficient QA processes.
 **Test Automation:** Building robust automation frameworks for web, mobile, and APIs.
@@ -43,7 +43,7 @@ I am passionate about improving software quality through end-to-end automation, 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=usman-sardar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  -->
 
-## 📫 Let's Connect:
+### 📫 Let's Connect:
 
 - [LinkedIn](https://www.linkedin.com/in/sdet-muhammadusman/)
 - [Upwork](https://www.upwork.com/freelancers/link2muhammadusman)
