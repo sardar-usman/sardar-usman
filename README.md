@@ -9,11 +9,17 @@ I am passionate about improving software quality through end-to-end automation, 
 ### 🔍 Expert Areas:
 
 **Automation Testing Frameworks:** Skilled in tools like Selenium WebDriver, Cypress, Playwright, TestCafe, Rspec, Capybara, Codeception, Behave, Cucumber, Robot Framework, Appium Inspector, XCUITest, UI Automator, Appium Driver, Mocha, Jasmine, Jest.
+
 **API Testing:** Proficient in Postman, REST APIs, Rest Assured, PactumJs and Python Requests Library.
+
 **Performance Testing:** Extensive experience with JMeter, k6, Artillery for frontend and backend performance testing.
+
 **Manual Testing:** Expertise in Static and Dynamic Testing Techniques, including Regression, Smoke, Sanity, UAT, AB, Monkey and Exploratory Testing.
+
 **Defect Management:** Efficiently managing defects using tools like Jira, Trello, and ClickUp.
+
 **Version Control:** Git, GitHub, GitLab, Bitbucket.
+
 **QA Management:** Expertise in Zephyr Enterprise, Zephyr inside Jira, Test Rails, Cucumber Studio and QA Symphony. 
 
 ### 💻 Programming Proficiency:
