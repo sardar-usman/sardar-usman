@@ -6,7 +6,7 @@ I am passionate about improving software quality through end-to-end automation, 
 
 ## 🚀 About Me:
 
-# 🔍 Expert Areas:
+## 🔍 Expert Areas:
 
 **Automation Testing Frameworks:** Skilled in tools like Selenium WebDriver, Cypress, Playwright, TestCafe, Rspec, Capybara, Codeception, Behave, Cucumber, Robot Framework, Appium Inspector, XCUITest, UI Automator, Appium Driver, Mocha, Jasmine, Jest.
 **API Testing:** Proficient in Postman, REST APIs, Rest Assured, PactumJs and Python Requests Library.
